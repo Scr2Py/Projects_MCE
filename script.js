@@ -56,7 +56,7 @@ const projects = [
     category: "PROJECT 18 / ARCHITECTURE",
     title: "The Eiffel Tower",
     titleJa: "エッフェル塔",
-    image: "images/images/Screenshot 2026-10-28 180024_800x800.jpg",
+    image: "images/Screenshot 2026-10-28 180024_800x800.jpg",
     alt: "Minecraft Eiffel Tower",
     description: "Build the famous Eiffel Tower using Minecraft blocks.",
     descriptionJa: "マインクラフトでエッフェル塔を建築します。",
