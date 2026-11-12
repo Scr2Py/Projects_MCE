@@ -33,7 +33,7 @@
 - 2ユニット × 2レッスン
 - 全4レッスン（各50分）
 
----
+<div style="break-before: page;"></div>
 
 ## 01 · 国際マイクラ AI 体験
 **Global Minecraft AI Experience**
@@ -58,7 +58,7 @@
 3. AIに関連する問題の調査
 4. 事件の解決とAI倫理についての学び
 
----
+<div style="break-before: page;"></div>
 
 ## 02 · Minecraft AI Foundations
 **全12レッスン（各50分）**
