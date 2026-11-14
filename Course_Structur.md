@@ -9,25 +9,19 @@
 - 3つのイベント
 - 各45分
 
-### 02 · 英語でマイクラ 基礎
+### 02 · 英語でマイクラ + AI 基礎
 **Minecraft English – Basic Course**
 
 - 12ユニット × 4レッスン
 - 全48レッスン（各50分）
 
-### 03 · 英語でマイクラ 応用
+### 03 · 英語でマイクラ + AI 応用
 **Minecraft English – Advanced Course**
 
 - 12ユニット × 4レッスン
 - 全48レッスン（各50分）
 
-### 04 · マイクラ AI ファウンデーション
-**Minecraft AI Foundations**
-
-- 12ユニット × 4レッスン
-- 全48レッスン（各50分）
-
-### 05 · マイクラ AI 自由研究
+### 04 · マイクラ AI 自由研究 Summer Course
 **Minecraft AI Project Lab**
 
 - 2ユニット × 2レッスン
