@@ -40,6 +40,9 @@
 3. Agentによるシェルターの建築
 4. 明かりのある安全な拠点の完成
 
+Videos
+https://www.youtube.com/watch?v=i2elgg8Q4r8
+
 #### 02 · Generative AI
 1. タイムトラベルへの導入
 2. AIで動く芝刈り機
